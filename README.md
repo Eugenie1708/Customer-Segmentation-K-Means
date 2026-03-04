@@ -159,15 +159,6 @@ This suggests that **engagement and spending intensity** matter more than produc
 
 ---
 
-## 📄 Deliverables
-
-* `shopnow_segmentation.ipynb`
-* Exported HTML notebook
-* Word report
-* Cleaned, reproducible workflow
-
----
-
 ## 🚀 Author
 
 Eugenie Lai
